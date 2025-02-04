@@ -76,16 +76,16 @@ python sketch_generator.py --video images/cars.mp4
 ## **📸 Sample Results**
 
 ### **🔹 Before Transformation**
-| Original Image | Original Video Frame |
-|---------------|----------------------|
-| ![Original Image](images/car.jpg) | ![Original Video Frame](images/cars.mp4) |
+| Original Image  |
+|----------------|
+| ![Original Image](images/car.jpg)|
 
 
 
 ### **🔹 After Transformation**
-| Sketched Image | Sketched Video Frame |
-|---------------|----------------------|
-| ![Sketched Image](output/sketched_car.jpg) | ![Sketched Video Frame](output/sketched_cars.mp4) |
+| Sketched Image |
+|---------------|
+| ![Sketched Image](output/sketched_car.jpg) |
 
 
 ## **🛠 Technologies Used**
