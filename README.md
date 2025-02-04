@@ -1,4 +1,4 @@
-### **🖼️ Sketch Generator: Convert Images & Videos into Pencil Sketches Using OpenCV**  
+### **Sketch Generator: Convert Images & Videos into Pencil Sketches Using OpenCV**  
 
 
 
